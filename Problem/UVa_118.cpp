@@ -1,3 +1,4 @@
+//B - Mutant Flatworld Explorers
 #include<bits/stdc++.h>
 using namespace std;
 const int N=1e4+10;

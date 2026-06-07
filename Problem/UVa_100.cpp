@@ -1,3 +1,4 @@
+//A - The 3n + 1 problem
 #include<bits/stdc++.h>
 using namespace std;
 int a,b;
