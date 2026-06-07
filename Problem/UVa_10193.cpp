@@ -1,3 +1,4 @@
+//W - All You Need Is Love
 #include <bits/stdc++.h>
 using namespace std;
 int GCD(int a,int b)

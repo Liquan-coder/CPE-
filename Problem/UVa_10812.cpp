@@ -1,3 +1,4 @@
+//AJ - Beat the Spread!
 #include <iostream>
 using namespace std;
 

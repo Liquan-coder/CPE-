@@ -1,3 +1,4 @@
+//H - Funny Encryption Method
 #include <bits/stdc++.h>
 using namespace std;
 

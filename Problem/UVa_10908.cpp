@@ -1,3 +1,4 @@
+//AK - Largest Square
 #include <bits/stdc++.h>
 using namespace std;
 int main()

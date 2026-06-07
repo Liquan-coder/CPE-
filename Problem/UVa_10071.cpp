@@ -1,3 +1,4 @@
+//Q - Back to High School Physics
 #include<bits/stdc++.h>
 using namespace std;
 int v,t;

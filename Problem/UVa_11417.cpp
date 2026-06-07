@@ -1,3 +1,4 @@
+//AU - GCD
 #include <bits/stdc++.h>
 using namespace std;
 int GCD(int a,int b)

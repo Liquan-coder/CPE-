@@ -1,3 +1,4 @@
+//P - Tell me the frequencies!
 #include<bits/stdc++.h>
 using namespace std;
 string s;

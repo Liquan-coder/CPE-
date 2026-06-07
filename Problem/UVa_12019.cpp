@@ -1,4 +1,4 @@
-//Doom’s Day Algorithm
+//AW - Doom's Day Algorithm
 #include <bits/stdc++.h>
 using namespace std;
 int main()
